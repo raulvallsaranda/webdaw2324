@@ -29,13 +29,12 @@
 				<a href="./html/06joan.html">06: Joan Juan Gramage</a>
 			</li>
 			<li>
-				<a href="./html/11helena.html">11: Helena Prats Revert</a>
-			</li>
-			<li>
+<<<<<<< HEAD
 				<a href="./html/13ivan.html">13: Ivan Tormo Martí</a>
+=======
+				<a href="./html/11helena.html">11: Helena Prats Revert</a>
+>>>>>>> f59360d5b984cf185d008d257331c151645137b2
 			</li>
-			
-
 		</ul>
 	</main>
 	<footer id="peu">
