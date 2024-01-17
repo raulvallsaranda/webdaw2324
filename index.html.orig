@@ -18,11 +18,15 @@
 		<h2>Llistat alumnat Entorns 23/24</h2>
 		<ul>
 			<li>
-				<a href="./html/00raul.html">00: Raül Valls Aranda (El profe)</a>
+<<<<<<< HEAD
+				<a href="./html/00raul.html">00: Raül Valls Aranda</a>
 				
 			</li>
 			<li>
 				<a href="./html/12edgar.html">12: Edgar Tormo Jornet</a>
+=======
+				<a href="./html/00raul.html">00: Raül Valls Aranda (El profe)</a>
+>>>>>>> 0daac32905cf8c3cf7e426beba1a79ff80dc4474
 			</li>
 		</ul>
 	</main>
