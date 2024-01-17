@@ -1,0 +1,135 @@
+/*Estils web*/
+
+body{
+	background-color:#DDD;
+	font-family:arial;
+	line-height: 35px;
+}
+figure{
+	display:flex;
+	justify-content: center;
+	align-items:center;
+	width:450px;
+	height:450px;
+	background:repeating-radial-gradient(circle at center,#e74f4f 0 5%,#48ffff 5% 10%);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	border-radius:60%;
+}
+
+#contenidor{
+	background-color:yellowgreen;
+	background:linear-gradient(to right, #ff0000, #3744ff);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	}
+#cap{
+	width:80%;
+	background:linear-gradient(#ff0000,#3744ff);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	border-radius:20px;
+	margin-bottom:5px;
+	}
+#caixaFlex{
+	margin:10px auto;
+	width: 60%;
+	display:flex;
+	flex-direction: row;
+}
+#principal{
+	width:80%;
+	background:linear-gradient(#ffea00,#dd3a3a,#3744ff);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+	border-radius:20px;
+	margin-bottom:5px;
+	}
+#peu{
+	width:80%;
+	background:linear-gradient(#3744ff,#ff0000);
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+		border-radius:20px;
+
+	}
+#caixaFlex h1{
+	width:80%;
+	background-color:#3744ff;
+	color:whitesmoke;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+}
+#caixaFlex img:first-child{
+	transform: scaleX(-1);
+}
+#principal h2{
+	width:60%;
+	background-color:rgb(255, 136, 239);
+	color:whitesmoke;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:5px;
+	border:solid black 1px;
+}
+#principal h3{
+	width:50%;
+	background-color:rgb(105, 158, 0);
+	color:whitesmoke;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+}
+#peu h3{
+	width:50%;
+	background-color:yellowgreen;
+	color:whitesmoke;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:10px;
+	border:solid black 1px;
+}
+#peu p{
+	width:70%;
+	color:whitesmoke;
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	padding:5px;
+	border:solid black 1px;
+	font-weight:bold;
+	background:repeating-linear-gradient(45deg,#3744ff 0 10%,#ff0000 10% 20%);
+}
+
+.imatge{
+	width:200px;
+	vertical-align:middle;
+	margin:auto auto;
+	border-radius:100px;
+}
+
+.logo{
+	width:50px;
+}
