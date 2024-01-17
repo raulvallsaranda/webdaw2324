@@ -1,8 +1,4 @@
 <<<<<<< HEAD
-00: A casa del meu veí, quan no n'hi ha per a pa, n'hi ha per a vi. Tota pedra fa paret.
-12: Pardal que vola a la cassola
-=======
-<<<<<<< HEAD
 00: A casa del meu veí, quan no n'hi ha per a pa, n'hi ha per a vi.
 11Helena: Secret de tres, del diable es.
 =======
@@ -12,4 +8,3 @@
 03. El que a hierro mata, a hierro muere.
 06: En boca cerrada no entran moscas.
 >>>>>>> c7a1710868fe7e2a0b2fb77a831c829f0bf54fed
->>>>>>> 134fe4cc457af81451a3e29c38e2e887f4231d27
