@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-00: A casa del meu veí, quan no n'hi ha per a pa, n'hi ha per a vi.
-11Helena: Secret de tres, del diable es.
-=======
 00: A casa del meu veí, quan no n'hi ha per a pa, n'hi ha per a vi.  Tota pedra fa paret.
-05: A quien madruga dios le ayuda.
-00: A casa del meu veí, quan no n'hi ha per a pa, n'hi ha per a vi. Tota pedra fa paret.
 03. El que a hierro mata, a hierro muere.
+05: A quien madruga dios le ayuda.
 06: En boca cerrada no entran moscas.
->>>>>>> c7a1710868fe7e2a0b2fb77a831c829f0bf54fed
+11: Helena: Secret de tres, del diable es.
